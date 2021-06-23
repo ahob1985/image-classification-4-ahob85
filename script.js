@@ -1,5 +1,7 @@
 // Author: Aaron Hobson 
 
+// scoobity doobity doobop
+
 // Global UI Variables
 let canvasDiv;
 let canvas;
